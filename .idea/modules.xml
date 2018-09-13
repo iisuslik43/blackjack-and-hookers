@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.hse.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.hse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.hse_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.hse_main.iml" group="ru.hse" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.hse_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.hse_test.iml" group="ru.hse" />
+    </modules>
+  </component>
+</project>
