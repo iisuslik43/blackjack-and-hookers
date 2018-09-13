@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a8f0e7-f48e-44cf-9792-5a2db90c0ece" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJackRealPlayer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/ru/hse/blackjack/core/BlackJackBot.java" afterPath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJackBot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJack$GameState.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJack$GameState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJack.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJackPlayer.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/BlackJackPlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/Card.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/Card.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/Deck.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/hse/blackjack/core/Deck.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/BlackJackPlayerTest.class" afterPath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/BlackJackPlayerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/BlackJackTest.class" afterPath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/BlackJackTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/DeckTest.class" afterPath="$PROJECT_DIR$/build/classes/test/ru/hse/blackjack/core/DeckTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJack.java" afterPath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/EmptyDeckException.java" afterPath="$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/EmptyDeckException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.BlackJackPlayerTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.BlackJackPlayerTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.BlackJackTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.BlackJackTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.DeckTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.hse.blackjack.core.DeckTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.hse.blackjack.core.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.hse.blackjack.core.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.BlackJackPlayerTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.BlackJackPlayerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.BlackJackTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.BlackJackTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.DeckTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.hse.blackjack.core.DeckTest.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -60,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJackPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -124,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/hse/blackjack/core/BlackJackTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -626,7 +644,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BlackJackTest.moreJustFinished">
+  <component name="RunManager" selected="Gradle.blackjack-and-hookers [test]">
     <configuration name="BlackJackTest.moreJustFinished" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -800,30 +818,32 @@
     <history-entry file="blackjack-and-hookers_[test] - 2018.09.13 at 16h 41m 57s.xml">
       <configuration name="blackjack-and-hookers [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="blackjack-and-hookers_[test] - 2018.09.13 at 17h 28m 41s.xml">
+      <configuration name="blackjack-and-hookers [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4878000" />
+    <option name="totallyTimeSpent" value="4993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="59" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973558" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973558" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1065,7 +1085,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/hse/blackjack/core/BlackJackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1099,7 +1119,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/hse/blackjack/core/BlackJackPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
