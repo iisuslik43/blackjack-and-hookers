@@ -1,17 +1,20 @@
 package ru.hse.blackjack.core;
 
-import ru.hse.blackjack.core.BlackJackPlayer.PlayerType;
-
-import java.util.Optional;
-
 public class BlackJack {
     public Card more() {
         return null;
     }
 
-    public Optional<PlayerType> getGameState() {
+    public GameState getGameState() {
         return null;
     }
 
+    public boolean check() {
+        return true;
+    }
+
+    public enum GameState {
+        RUNNING, BOT_WON, HUMAN_WON
+    }
 
 }
