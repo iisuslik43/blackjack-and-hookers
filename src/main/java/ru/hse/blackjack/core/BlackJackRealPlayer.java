@@ -9,7 +9,7 @@ public class BlackJackRealPlayer implements BlackJackPlayer {
 
     @Override
     public Card more() {
-        return null;
+        return deck.getCard();
     }
 
     @Override

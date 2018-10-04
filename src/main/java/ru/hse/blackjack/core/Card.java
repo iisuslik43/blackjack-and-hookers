@@ -1,13 +1,15 @@
 package ru.hse.blackjack.core;
 
-public class Card {
-    private final int[] score;
+import java.util.List;
 
-    public Card(int[] score) {
+public class Card {
+    private final List<Integer> score;
+
+    public Card(List<Integer> score) {
         this.score = score;
     }
 
-    public int[] getScores() {
+    public List<Integer> getScores() {
         return score;
     }
 
