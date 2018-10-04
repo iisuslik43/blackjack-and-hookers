@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.hse.blackjack.core.DeckTest" tests="2" skipped="0" failures="2" errors="0" timestamp="2018-09-13T14:28:41" hostname="vladimir" time="0.001">
+<testsuite name="ru.hse.blackjack.core.DeckTest" tests="2" skipped="0" failures="2" errors="0" timestamp="2018-10-04T13:30:56" hostname="vladimir" time="0.001">
   <properties/>
-  <testcase name="getCard" classname="ru.hse.blackjack.core.DeckTest" time="0.0">
+  <testcase name="getCard" classname="ru.hse.blackjack.core.DeckTest" time="0.001">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at ru.hse.blackjack.core.DeckTest.getCard(DeckTest.java:10)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -51,7 +51,7 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="getShuffledDeck" classname="ru.hse.blackjack.core.DeckTest" time="0.001">
+  <testcase name="getShuffledDeck" classname="ru.hse.blackjack.core.DeckTest" time="0.0">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at ru.hse.blackjack.core.DeckTest.getShuffledDeck(DeckTest.java:15)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
